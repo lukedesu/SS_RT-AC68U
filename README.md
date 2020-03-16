@@ -1,2 +1,2 @@
-# ssssss
-# ssssss
+# Shadowsocks for RT-AC68U
+
